@@ -1,2 +1,6 @@
-# python_life_organizer
-life organizer / motivational quote generator
+# life_organizer
+GUI workflow, to do list, ....etc
+
+
+
+*currently a mess, but will integrate the two projects and make it a decent app
